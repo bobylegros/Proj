@@ -5,7 +5,8 @@ source 'https://rubygems.org'
 # require 'mechanize'
 
 # authentification
-gem 'bootstrap', '~> 4.0.0'
+gem 'bh',             '~> 1.3'
+gem 'bootstrap',      '~> 4.0.0'
 gem 'devise'
 #gem 'pundit'
 
